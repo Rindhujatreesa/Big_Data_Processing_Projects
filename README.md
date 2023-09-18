@@ -17,4 +17,5 @@ We come across big data in a variety of forms and almost everywhere. According t
 
 S. Sagiroglu and D. Sinanc, *"Big data: A review"*, 2013 International Conference on Collaboration Technologies and Systems (CTS), San Diego, CA, USA, 2013, pp. 42-47, doi: 10.1109/CTS.2013.6567202.
 
-J. Manyika, M. Chui, B. Brown, J. Bughin, R. Dobbs, C. Roxburgh and A. H. Byers, *"Big data: The next frontier for innovation, competition, and productivity"*, McKinsey Global Institute, 2011, [McKinsey Global Institute](http://www.mckinsey.com/~/media/McKinsey/dotcom/Insights%20and%20pubs/MGI/Research/Technology%20and%20Innovation/Big%20Data/MGI-big-data-full-report. ashx/)
+J. Manyika, M. Chui, B. Brown, J. Bughin, R. Dobbs, C. Roxburgh and A. H. Byers, *"Big data: The next frontier for innovation, competition, and productivity"*, McKinsey Global Institute, 2011, 
+[McKinsey Global Institute](http://www.mckinsey.com/~/media/McKinsey/dotcom/Insights%20and%20pubs/MGI/Research/Technology%20and%20Innovation/Big%20Data/MGI-big-data-full-report.ashx/)
