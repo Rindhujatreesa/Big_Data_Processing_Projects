@@ -35,7 +35,7 @@ The 6 V's or characteristics of big data define it. They are -
 - **Velocity**: The data is accumulated at a high rate, i.e., it is not fixed or stagnant data. The data is analyzed in real-time and some sources will have a high data generation rate *(M. Narang, 2023)*.
 - **Variety**: Another characteristic of big data is its different data types, its uniqueness in organizing, and the readiness to be processed. With a high data accumulation rate or velocity, the data models have to handle a number of varieties of data efficiently *(M. Narang, 2023)*.
 - **Variability**: The data collected and stored should be available for processing and analyzing different purposes *(M. Narang, 2023)*. 
-- **Veracity**: The data acquired should be reliable for analyzing and providing a recommendation for an action. The quality of the data should be compromised such that it affects the prediction or business analysis *(M. Narang, 2023)*.
+- **Veracity**: The data acquired should be reliable for analyzing and providing a recommendation for an action. The quality of the data should NOT be compromised such that it affects the prediction or business analysis *(M. Narang, 2023)*.
 - **Value**: The data is considered valuable when it could bring valuable insights. The proper data types, variables, and intervals of acquisition make the data better *(M. Narang, 2023)*.
 
 ## Big Data Pipeline
