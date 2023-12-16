@@ -42,7 +42,7 @@ The 6 V's or characteristics of big data define it. They are -
 
 An outline of the major steps involved in the big data analysis pipeline is given below. 
 
-![Big Data Pipeline]([Big_Data_Pipeline.png)
+![Big Data Pipeline](Big_Data_Pipeline.png)
 
 - **Phase 1: Data Acquisition and Recording** - The preliminary step in any data pipeline is the generation of data from different sources. However, the entire data collected will not be useful most of the time and therefore, proper cleaning and compressions have to be implemented. Together with data collection, it is equally important to generate the right metadata to describe the data and its history *(D. Agrawal, et al., 2012)*.
 - **Phase 2: Information Extraction and Cleaning** - Data is raw format and does not give any insights unless it is formatted in a structured manner like tables or databases. Along with this, the data has to be cleaned by filling in missing or null values and removing outliers to maintain consistency throughout the analysis *(D. Agrawal, et al., 2012)*.
