@@ -38,7 +38,7 @@ The dataset, sourced from Kaggle ([Steam Reviews 2021](https://www.kaggle.com/da
 
 **Technology Stack:**
 - **Spark SQL:** Used for extraction, processing, and analysis of the data set.
-- **Spark MLib:** Uses the ALS collaborative filtering algorithm for recommending games.
+- **Spark MLLib:** Uses the ALS collaborative filtering algorithm for recommending games.
 - **Pandas:** Employed for exploratory data analysis and manipulation.
 - **Matplotlib and Seaborn:** Utilized for data visualization to derive meaningful insights.
 - **Hadoop Distributed File System (HDFS):** Chosen for storing the extensive dataset.
